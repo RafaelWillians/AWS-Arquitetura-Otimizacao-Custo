@@ -21,3 +21,4 @@ Terá alguns diagramas para otimizarmos uma arquitetura simples, com foco no pil
 * Git-log
 * GitHub Actions
 * github markdown preview
+* Draw.io Integration
