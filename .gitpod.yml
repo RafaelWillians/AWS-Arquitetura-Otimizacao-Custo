@@ -1,3 +1,4 @@
+
 tasks:
   - name: aws-cli
     env:
@@ -11,3 +12,6 @@ tasks:
       rm -rf /workspace/awscliv2.zip /workspace/aws && \
       chmod +x aws-cli-login.sh
       
+vscode:
+  extensions:
+    - hediet.vscode-drawio
