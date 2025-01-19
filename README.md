@@ -1,10 +1,9 @@
-# AWS Repo Template
+# Exemplos de otimização de arquitetura - Otimização de Custos 
 
-Repo template for use with AWS CLI, compatible with Codespaces, GitPod and DevContainer extension (for VSCode).
+Olá! Este repositório foi criado para atividade do curso de AWS SAA da Proz - Arquitet@s de Nuvem.
+Terá alguns diagramas para otimizarmos uma arquitetura simples, com foco no pilar de Otimização de Custos do AWS Well-Architected Framework.
 
-Template de repositório para usar com AWS CLI, compatível com Codespaces, GitPod e extensão DevContainer (para VSCode).
-
-## Extensions
+## Extensões para devcontainer/GitPod
 * AWS CLI
 * Git Graph
 * Git-log
