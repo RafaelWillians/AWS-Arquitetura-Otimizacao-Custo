@@ -10,7 +10,7 @@ Para um website cuja demanda seja imprevisível, otimizada arquitetura para torn
 
 * Implantada em região mais custo-benefício (us-east-1), para aplicações e dados que podem ser implementados fora do Brasil.
 
-* Redução de custos quando houver baixa demanda. 
+* Redução de custos quando houver baixa demanda.
 
 * Pagamento de acordo com a demanda, sem haver necessidade de ter uma infraestrutura sempre em funcionamento e sem comprometer a disponibilidade.
 
