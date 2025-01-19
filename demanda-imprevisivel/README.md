@@ -22,6 +22,6 @@ Para um website cuja demanda seja imprevisível, otimizada arquitetura para torn
 
 * Custos podem ter forte oscilação.
 
-* Pode haver custo maior em cenários de alta demanda e constante.
+* Pode haver custo maior em cenários de alta e constante demanda.
 
 * Por questões de regulamentação/legislação, pode ser necessário mudar a região.
