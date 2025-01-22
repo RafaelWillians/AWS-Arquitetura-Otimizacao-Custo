@@ -3,6 +3,8 @@
 Olá! Este repositório foi criado para atividade do curso de AWS SAA da Proz - Arquitet@s de Nuvem.
 Terá alguns diagramas para otimizarmos uma arquitetura simples, com foco no pilar de Otimização de Custos do AWS Well-Architected Framework.
 
+### [Vídeo no Youtube](https://www.youtube.com/watch?v=91TSpqpVJMc)
+
 ### [Apresentação em PDF](./Apresentacao-Otimizacao-Custo.pdf)
 
 ## Para otimizar
